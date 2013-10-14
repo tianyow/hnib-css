@@ -1,1 +1,41 @@
+/* 匯款 ****/
+
+// Top Menu MouseOver Colors
+
 onMouseOver="this.style.backgroundColor='#0000ff';" onMouseOut="this.style.backgroundColor='#333399';"
+
+onMouseOver="this.style.backgroundColor='#AA6C00';" onMouseOut="this.style.backgroundColor='#885500';"
+
+
+// Top Menu Sub Menu Border Color
+
+<table border="0" cellspacing="0" cellpadding="0" bgcolor="#3366ff">
+
+<table border="0" cellspacing="0" cellpadding="0" bgcolor="#885500">
+
+// Top Menu Sub Menu Bkg Color
+
+<td nowrap class="content_m" bgcolor="#FFFFFF">
+
+<td nowrap class="content_m" bgcolor="#FFEDB3">
+
+
+// Title - 外匯專區
+
+<td valign="top" nowrap rowspan="2" width="80%" align="right"><b><i><font size="4"color="#000099">外 匯 專 區</font></i></b></td>
+
+<td valign="top" nowrap rowspan="2" width="80%" align="right"><b><i><font size="4"color="#993333">外 匯 專 區</font></i></b></td>
+
+
+// CSS
+A:link {text-decoration: none}
+A:link {text-decoration: none; color: black;}
+A:visited {text-decoration: none}
+
+
+
+/* 基金 ****/
+
+// Sub Menu bkg Color
+<td bgcolor="#FFFFFF" nowrap class="content">
+<td bgcolor="#FFEEE8" nowrap class="content">

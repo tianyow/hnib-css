@@ -19,18 +19,18 @@ td {	font-size: 12px;	line-height: 18px;	color: #333333;}
 
 
 /* 交易名稱 */
-.subtitle_15bl_b {	font-size: 15px;	font-weight: bold;	color: 3863d6;}
+.subtitle_15bl_b {	font-size: 15px;	font-weight: bold;	color: #885500;}
 
 
 /* 表單標題----------------------------------------------------------------------------------------------------- */
 /* 藍底_字靠左 */
-.Table_subjectBu_L {	font-size: 12px;	color: #000000;	background-color: #C8E3FF;	vertical-align: middle;	padding-top: 6px;	padding-bottom: 6px;	line-height: 16px;	padding-left: 6px;	padding-right: 2px;}
+.Table_subjectBu_L {	font-size: 12px;	color: #000000;	background-color: #FFEDB3;	vertical-align: middle;	padding-top: 6px;	padding-bottom: 6px;	line-height: 16px;	padding-left: 6px;	padding-right: 2px;}
 
 /* 藍底_字靠中 */
-.Table_subjectBu_C {	font-size: 12px;	color: #000000;	background-color: #C8E3FF;	vertical-align: middle;	padding-top: 6px;	padding-bottom: 6px;	line-height: 16px;	text-align: center;	padding-left: 3px;	padding-right: 3px;}
+.Table_subjectBu_C {	font-size: 12px;	color: #000000;	background-color: #FFEDB3;	vertical-align: middle;	padding-top: 6px;	padding-bottom: 6px;	line-height: 16px;	text-align: center;	padding-left: 3px;	padding-right: 3px;}
 
 /* 藍底_字靠右 */
-.Table_subjectBu_R {	font-size: 12px;	color: #000000;	background-color: #C8E3FF;	vertical-align: middle;	padding-top: 6px;	padding-bottom: 6px;	line-height: 16px;	text-align: right;	padding-left: 6px;	padding-right: 10px;}
+.Table_subjectBu_R {	font-size: 12px;	color: #000000;	background-color: #FFEDB3;	vertical-align: middle;	padding-top: 6px;	padding-bottom: 6px;	line-height: 16px;	text-align: right;	padding-left: 6px;	padding-right: 10px;}
 
 /* 深藍底_字靠左 */
 .Table_subjectDBu_L {	font-size: 12px;	color: #000000;	background-color: #95CAFF;	vertical-align: middle;	padding-top: 6px;	padding-bottom: 6px;	line-height: 16px;	text-align: left;	padding-left: 10px;	padding-right: 6px;}
@@ -102,13 +102,13 @@ td {	font-size: 12px;	line-height: 18px;	color: #333333;}
 
 /* 表單內容----------------------------------------------------------------#d5d5d5-----#E1F1FF-------------------------------- */
 /* 藍底_字靠中 */
-.Table_contentBu_C {	font-size: 12px;	color: #333333;	background-color: #E1F1FF;	padding-left: 6px;	padding-top: 6px;	padding-bottom: 6px;	text-align: center;}
+.Table_contentBu_C {	font-size: 12px;	color: #333333;	background-color: #FFF8EF;	padding-left: 6px;	padding-top: 6px;	padding-bottom: 6px;	text-align: center;}
 
 /* 藍底_字靠左 */
-.Table_contentBu_L {	font-size: 12px;	color: #333333;	background-color: #E1F1FF;	padding-left: 6px;	padding-top: 6px;	padding-bottom: 6px;	}
+.Table_contentBu_L {	font-size: 12px;	color: #333333;	background-color: #FFF8EF;	padding-left: 6px;	padding-top: 6px;	padding-bottom: 6px;	}
 
 /* 藍底_字靠右 */
-.Table_contentBu_R {	font-size: 12px;	color: #333333;	background-color: #E1F1FF;	padding-left: 6px;	padding-top: 6px;	padding-bottom: 6px;	text-align: right;}
+.Table_contentBu_R {	font-size: 12px;	color: #333333;	background-color: #FFF8EF;	padding-left: 6px;	padding-top: 6px;	padding-bottom: 6px;	text-align: right;}
 
 /* 白底_字靠中 */
 .Table_contentWt_C {	font-size: 12px;	color: #333333;	background-color: #ffffff;	padding-left: 6px;	padding-top: 6px;	padding-bottom: 6px;	text-align: center;}
@@ -148,12 +148,12 @@ td {	font-size: 12px;	line-height: 18px;	color: #333333;}
 
 /* 按鈕------------------------------------------------------------------------------------------------------------ */
 /* 確定類按鈕_紅色 */
-.BTN_red_C {  font-size: 12px;     color: #00ffff;background-image: url(../netbank/pages/imagesNew/button/BTN_red_bg.gif);height: 20px;}
+.BTN_red_C {  font-size: 12px;     color: #00ffff;background-image: url(../netbank/pages/imagesNew/button/BTN_darkred_bg.gif);height: 20px;}
 .BTN_red_C A:link{color:#ffffff; text-decoration:none; }
 .BTN_red_C A:visited{color:#ffffff; text-decoration:none; }
 .BTN_red_C A:hover{color:ffff00; text-decoration:none; }
-.BTN_red_L {	background-image: url(../netbank/pages/imagesNew/button/BTN_red_left.gif);	width: 6px;	}
-.BTN_red_R {	background-image: url(../netbank/pages/imagesNew/button/BTN_red_right.gif);	width: 6px;	}
+.BTN_red_L {	background-image: url(../netbank/pages/imagesNew/button/BTN_darkred_left.gif);	width: 6px;	}
+.BTN_red_R {	background-image: url(../netbank/pages/imagesNew/button/BTN_darkred_right.gif);	width: 6px;	}
 
 /* 確定類按鈕_紅色 字顏色為黑*/
 .BTN_red_CW {  font-size: 12px;     color: #ffffff;background-image: url(../netbank/pages/imagesNew/button/BTN_red_bg.gif);height: 20px;}
@@ -182,3 +182,10 @@ td {	font-size: 12px;	line-height: 18px;	color: #333333;}
 
 /*修正textarea 長度不足卻自動換行的問題*/
 textarea    {border-width:2px;}
+
+/* Adjust by PSC  2013.Oct */
+A:link {text-decoration: none; color: black;}
+A:visited {text-decoration: none; color: #333333;}
+A:hover { color: #993333;}
+
+
