@@ -1,0 +1,214 @@
+/* 標題 */
+.title12bn {font-family: "新細明體", "Arial", "taipei";font-size: 13px;color:990000;line-height: 135%;}
+.title12bn  A:link{color:990000; text-decoration:none; }
+.title12bn  A:visited{color:990000; text-decoration: none; }
+.title12bn  A:hover{color:EA3E02; text-decoration: underline; }
+
+.title15rd3b {font-family:"Arial", "新細明體", "taipei"; font-size: 15px;color:990000;line-height: 20px;font-weight: bold;}
+.title15rd3b  A:link{color:990000; text-decoration:none; }
+.title15rd3b  A:visited{color:990000; text-decoration: none; }
+.title15rd3b  A:hover{color:990000; text-decoration: underline; }
+
+.title12rdb {font-family:"新細明體", "Arial","taipei";font-size: 12px;color:C30300; font-weight: bold;}
+.title12rdb A:link{color: #C30300; text-decoration: none; }
+.title12rdb A:visited{ color: #C30300; text-decoration: none; }
+.title12rdb A:hover{color: #C30300; text-decoration:underline;}
+
+.title12bkb {	font-size: 12px;	font-weight: bold;	color: #000000;}
+
+.title12oe {font-family: "新細明體", "Arial", "taipei";font-size: 12px;color:FF6600;line-height: 135%; FF6600 ;font-weight: bold;}
+.title12oe  A:link{color:FF6600; text-decoration:none; }
+.title12oe  A:visited{color:FF6600; text-decoration: none; }
+.title12oe  A:hover{color:990000; text-decoration: underline; }
+
+.title12oe2 {font-family: "新細明體", "Arial", "taipei";font-size: 12px;color:FF6600;line-height: 135%; FF6600 ;}
+.title12oe2  A:link{color:FF6600; text-decoration:none; }
+.title12oe2  A:visited{color:FF6600; text-decoration: none; }
+.title12oe2  A:hover{color:990000; text-decoration: underline; }
+
+.title13rd {font-family: "新細明體", "Arial", "taipei";font-size:13px;color:C30300;}
+.title13wb {
+	font-size:13px;
+	color:ffffff;
+	font-weight: bold;
+}
+.title14rd {font-family: "新細明體", "Arial", "taipei";font-size:14px;color:C30300;}
+.title14rd  A:link{color:C30300; text-decoration:none; }
+.title14rd  A:visited{color:C30300; text-decoration: none; }
+.title14rd  A:hover{color:C30300; text-decoration: underline; }
+
+.title13bn {font-family: "新細明體", "Arial", "taipei";font-size: 13px;color:#CC0066;line-height: 135%;}
+	font-family:"新細明體", "Arial","taipei";
+	font-size: 12px;
+	color:C30300; font-weight: bold;}
+.title13bn  A:link{color:990000; text-decoration:none; }
+.title13bn  A:visited{color:990000; text-decoration: none; }
+.title13bn  A:hover{color:EA3E02; text-decoration: underline; }
+
+
+/* 內文 */
+.content12gy {
+	font-family: "新細明體", "Arial", "taipei";
+	font-size: 12px;
+	color:4B4A4A;
+	text-decoration: none;
+	line-height: 16px;
+}
+.content12gy  A:link{color:4B4A4A; text-decoration:none; }
+.content12gy  A:visited{color:4B4A4A; text-decoration: none; }
+.content12gy  A:hover{color:990000; text-decoration: underline; }
+.content12rd {font-family: "新細明體", "Arial", "taipei";font-size: 12px;color:990000;line-height: 135%;}
+.content12rd  A:link{color:990000; text-decoration:none; }
+.content12rd  A:visited{color:990000; text-decoration: none; }
+.content12rd  A:hover{color:EA3E02; text-decoration: underline; }
+.content12be {font-family: "新細明體", "Arial", "taipei";font-size: 12px;color:0033CC;line-height: 135%;text-decoration: underline;}
+.content12be  A:link{color:0033CC; text-decoration:underline; }
+.content12be  A:visited{color:0033CC; text-decoration: underline; }
+.content12be  A:hover{color:FF6600; text-decoration: underline; }
+.content12be2 {font-family: "新細明體", "Arial", "taipei";font-size: 12px;color:0033CC;line-height: 135%;}
+.content12be2 A:link{color: #0033CC; text-decoration: none; }
+.content12be2 A:visited{ color: #0033CC; text-decoration: none; }
+.content12be2 A:hover{color: #0033CC; text-decoration:underline;}
+.content12rd2 {font-family: "新細明體", "Arial", "taipei";font-size: 12px;color:#FF0000;line-height: 135%;}
+.content11_we {	font-size: 11px;	color: #ffffff;}
+.content11_red {	font-size: 11px;	color: #CC0000;}
+.content11_black {	font-size: 11px;	color: #000000;}
+.content11_gy {	font-size: 11px;	color: #666666;}
+.content12_green {	font-size: 12px;	color: #009900;}
+.content12_yl {	font-size: 12px;	color: #FFFF00;}
+.content12_red {	font-size: 12px;	color: #CC0000;}
+
+/* menu */
+.menu12bn {font-family: "新細明體", "Arial", "taipei";font-size: 12px;color: 990000;}
+.menu12bn  A:link{color:990000; text-decoration:none; }
+.menu12bn A:visited{color:990000; text-decoration:none; }
+.menu12bn A:hover{color:EA3E02; text-decoration: underline; }
+.menu12gy {	font-size: 12px;	color: #333333;}
+.menu12gy  A:link{color:#333333; text-decoration:none; }
+.menu12gy A:visited{color:#333333; text-decoration:none; }
+.menu12gy A:hover{color:EA3E02; text-decoration: underline; }
+.menu13bn {font-size: 12px;color: DC7100;}
+.menu13bn  A:link{color:DC7100; text-decoration:none; }
+.menu13bn A:visited{color:DC7100; text-decoration:none; }
+.menu13bn A:hover{color:EA3E02; text-decoration: underline; }
+.menu14bn {font-size: 12px;color: 005DBE;}
+.menu14bn  A:link{color:005DBE; text-decoration:none; }
+.menu14bn A:visited{color:005DBE; text-decoration:none; }
+.menu14bn A:hover{color:EA3E02; text-decoration: underline; }
+
+/* form */
+.forma {font-size: 12px;color: #4C4D4D;border: 1px solid #808080;margin: 1px;font-family:"新細明體", "Arial", "taipei";width:140px;}
+.forma2 {font-size: 12px;color: #4C4D4D;border: 1px solid #808080;margin: 1px;font-family:"新細明體", "Arial", "taipei";width:128px;}
+.formb {font-size: 12px;color: #4C4D4D;border: 1px solid #808080;margin: 1px;font-family:"新細明體", "Arial", "taipei";}
+.formc {font-size: 12px;color: #4C4D4D;border: 1px solid #808080;margin: 1px; font-family:"新細明體", "Arial", "taipei";width:115px;}
+.formd {font-family: "Arial", "Helvetica", "sans-serif";color: #4C4D4D;border: 1px solid #959595;font-size: 11px;}
+.forme {font-size: 12px;color: #4C4D4D;border: 1px solid #808080;margin: 1px;font-family:"新細明體", "Arial", "taipei";}
+.inputtext {font-size: 11px;border: 1px solid #CCCCCC;}
+.selectform {font-size: 11px;color: #333333;}
+.forma40 {	font-size: 12px;	color: #4C4D4D;border: 1px solid #808080;margin: 1px;	width:40px;}
+.forma140 {	font-size: 12px;	color: #4C4D4D;border: 1px solid #808080;margin: 1px;	width:160px;}
+.forma148 {	font-size: 12px;	color: #4C4D4D;border: 1px solid #808080;margin: 1px;	width:148px;}
+.forma {	font-size: 11px;	color: #4C4D4D;border: 1px solid #808080;margin: 1px;	font-family:"新細明體", "Arial", "taipei";}
+input {	font-size: 11px;	color: #999999;}
+.input_text {	font-size: 11px;	border: 1px solid #CCCCCC;}
+.select_form {	font-size: 11px;	color: #333333;}
+.input_buttonA {	font-size: 11px;}
+
+/* footer */
+.footer12gy {font-family:"新細明體", "Arial", "taipei";font-size: 12px;color: 585858;}
+.footer12gy  A:link{color:585858; text-decoration:none; }
+.footer12gy A:visited{color:585858; text-decoration: none; }
+.footer12gy  A:hover{color:990000; text-decoration: underline; }
+.footer12gy2 {font-family: "新細明體", "Arial", "taipei";font-size: 12px;color: 828282;}
+.footer12gy2  A:link{color:828282; text-decoration:none; }
+.footer12gy2 A:visited{color:828282; text-decoration: none; }
+.footer12gy2  A:hover{color:990000; text-decoration: underline; }
+.footer11gy {font-family:"新細明體", "Arial", "taipei";font-size: 11px;color: 585858;}
+.footer11gy  A:link{color:585858; text-decoration:none; }
+.footer11gy A:visited{color:585858; text-decoration: none; }
+.footer11gy  A:hover{color:990000; text-decoration: underline; }
+
+/* submit button */
+.button12gy {	font-family:"Arial", "taipei";	font-size: 10px;	color:4B4A4A;	line-height: 135%;}
+
+/* Locator */
+.locator11gy {font-family: "新細明體", "Arial", "taipei";font-size: 11px;color: 7F7F7F;}
+.locator11gy A:link{color:7F7F7F; text-decoration:none; }
+.locator11gy A:visited{color:7F7F7F; text-decoration: none; }
+.locator11gy  A:hover{color:990000; text-decoration: underline; }
+
+/* ScollingBar */
+/*body{
+scrollbar-track-color:#F7F7F7;
+scrollbar-face-color:#FDD0CF;
+scrollbar-shadow-color:#B8B7B7;
+scrollbar-darkshadow-color:#F7F7F7;
+scrollbar-highlight-color:#FFFFFF;
+scrollbar-3dlight-color:#D9D9D9;
+scrollbar-arrow-color:#888888;  }
+*/
+/* dropDownMenu */
+.FORM {MARGIN-BOTTOM: 0px}
+.attentiont1 {font-size: 11px;color: #990000;}
+
+/* table */
+.bg {
+	background-image: url(images/top_bg.jpg);
+	background-repeat: repeat-x;
+	background-color: EBEBEB;}
+
+.cbg{
+	background-repeat: repeat-x;
+	background-color: FFFBE5;
+	background-image: url(images/c_sub_bg.jpg);}
+
+.dbg {
+	background-repeat: repeat-x;
+	background-color: FDEAD9;
+	background-image: url(images/d_sub_bg.jpg);
+}
+
+.ctablebg {
+	background-repeat: repeat-x;
+	background-color: FFFFFF;
+	background-image: url(personal/images/c_table_bt.jpg);
+}
+
+.dtablebg {
+	background-repeat: repeat-x;
+	background-color: FFFFFF;
+	background-image: url(wealth/images/d_table_bg.jpg);
+}
+
+.tabletag10c {font-family:"Arial", "新細明體","taipei"; font-size: 10px;color:000000; font-weight: normal;}
+.tabletag10c A:link{color: #000000; text-decoration: none; }
+.tabletag10c A:visited{ color: #000000; text-decoration: none; }
+.tabletag10c A:hover{color: #000000; text-decoration:underline;}
+.tabletag10rd {font-family:"Arial", "新細明體","taipei"; font-size: 10px;color:CC0000; font-weight: normal;}
+.tabletag10rd A:link{color: #CC0000; text-decoration: none; }
+.tabletag10rd A:visited{ color: #CC0000; text-decoration: none; }
+.tabletag10rd A:hover{color: #CC0000; text-decoration:underline;}
+.tabletag12c {	font-family:"Arial", "新細明體", "taipei";	font-size: 12px;	color:000000;	font-weight: normal;	text-decoration: none;}
+.tabletag12c A:link{color: #000000; text-decoration: none; }
+.tabletag12c A:visited{ color: #000000; text-decoration: none; }
+.tabletag12c A:hover{color: #990000; text-decoration:underline;}
+.tabletag12rd {font-family:"Arial", "新細明體","taipei"; font-size: 12px;color:990000; font-weight: normal;}
+.tabletag12rd A:link{color: #990000; text-decoration: none; }
+.tabletag12rd A:visited{ color: #990000; text-decoration: none; }
+.tabletag12rd A:hover{color: #EA3E02; text-decoration:underline;}
+.tabletag12we {font-family:"Arial", "新細明體","taipei"; font-size: 12px;color:#FFFFFF; font-weight: normal;}
+.tabletag12we A:link{color: #FFFFFF; text-decoration: none; }
+.tabletag12we A:visited{ color: #FFFFFF; text-decoration: none; }
+.tabletag12we A:hover{color: #FFFFFF; text-decoration:underline;}
+
+/*add*/
+.we12titleB {	font-family: "新細明體", "Arial", "taipei";	font-size: 12px;	color:#DC6565;	line-height: 135%;	font-weight: bold;}
+.we12titleB   A:link{color:DC6565; text-decoration:none; }
+.we12titleB   A:visited{color:DC6565; text-decoration: none; }
+.we12titleB  A:hover{color:#CC0000; text-decoration: underline; }
+
+.we12titleBov {	font-family: "新細明體", "Arial", "taipei";	font-size: 12px;	color:#FFFFFF;	line-height: 135%;	font-weight: bold;}
+.we12titleBov    A:link{color:FFFFFF; text-decoration:none; }
+.we12titleBov    A:visited{color:FFFFFF; text-decoration: none; }
+.we12titleBov   A:hover{color:FFFFFF; text-decoration: none; }
+.mark_delate {	text-decoration: line-through;}

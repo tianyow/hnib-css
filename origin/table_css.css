@@ -1,0 +1,184 @@
+/* 版型-------------------------------------------------------------------------------------------------------- */
+/* 20071218 add font-family: "Times New Roman","新細明體" */
+body {margin-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; font-family: "Times New Roman","新細明體";
+scrollbar-track-color:#F8E4E3;
+scrollbar-face-color:#FBDCDB;
+scrollbar-shadow-color:pink;
+scrollbar-darkshadow-color:pink;
+scrollbar-highlight-color:pink;
+scrollbar-3dlight-color:#FFE5CC;
+scrollbar-arrow-color:#888888;
+}
+td {	font-size: 12px;	line-height: 18px;	color: #333333;}
+
+/* 內容字體------------------------------------------------------------------------------------------------------ */
+.mainmenu_12rd_b {	font-weight: bold;	color: #CC0000;	font-size: 12px;	text-decoration: none;}
+.contentmenu_12gy {	font-size: 12px;	color: #666666;	text-decoration: none;}
+.contentmenu_12rd_b {	font-weight: bold;	color: #CC0000;	font-size: 12px;	text-decoration: none;}
+.contentmenu_line_12gy {	font-family: Arial, Helvetica, sans-serif;	font-size: 12px;	color: #666666;}
+
+
+/* 交易名稱 */
+.subtitle_15bl_b {	font-size: 15px;	font-weight: bold;	color: 3863d6;}
+
+
+/* 表單標題----------------------------------------------------------------------------------------------------- */
+/* 藍底_字靠左 */
+.Table_subjectBu_L {	font-size: 12px;	color: #000000;	background-color: #C8E3FF;	vertical-align: middle;	padding-top: 6px;	padding-bottom: 6px;	line-height: 16px;	padding-left: 6px;	padding-right: 2px;}
+
+/* 藍底_字靠中 */
+.Table_subjectBu_C {	font-size: 12px;	color: #000000;	background-color: #C8E3FF;	vertical-align: middle;	padding-top: 6px;	padding-bottom: 6px;	line-height: 16px;	text-align: center;	padding-left: 3px;	padding-right: 3px;}
+
+/* 藍底_字靠右 */
+.Table_subjectBu_R {	font-size: 12px;	color: #000000;	background-color: #C8E3FF;	vertical-align: middle;	padding-top: 6px;	padding-bottom: 6px;	line-height: 16px;	text-align: right;	padding-left: 6px;	padding-right: 10px;}
+
+/* 深藍底_字靠左 */
+.Table_subjectDBu_L {	font-size: 12px;	color: #000000;	background-color: #95CAFF;	vertical-align: middle;	padding-top: 6px;	padding-bottom: 6px;	line-height: 16px;	text-align: left;	padding-left: 10px;	padding-right: 6px;}
+
+/* 深藍底_字靠中 */
+.Table_subjectDBu_C {	font-size: 12px;	color: #000000;	background-color: #95CAFF;	vertical-align: middle;	padding-top: 6px;	padding-bottom: 6px;	line-height: 16px;	text-align: center;	padding-left: 10px;	padding-right: 6px;}
+
+/* 深藍底_字靠右 */
+.Table_subjectDBu_R {	font-size: 12px;	color: #000000;	background-color: #95CAFF;	vertical-align: middle;	padding-top: 6px;	padding-bottom: 6px;	line-height: 16px;	text-align: right;	padding-left: 10px;	padding-right: 6px;}
+
+/* 深藍底 */
+.Table_subjectDBu {	font-size: 12px;	color: #000000;	background-color: #95CAFF;	padding-top: 6px;	padding-bottom: 6px;	line-height: 16px;	padding-left: 10px;	padding-right: 6px;}
+
+/* Script排序點選使用 */
+.Table_subject_hand {  cursor="hand"; text-decoration: underline; align="center"; color: #660099}
+
+
+/* 連結----------------------------------------------------------------------------------------------------- */
+/* 淺藍底_字靠左 */
+.Link_contentBu_L {	font-size: 12px;	color: #333333;	background-color: #E1F1FF;	padding-left: 6px;	padding-top: 6px;	padding-bottom: 6px;	text-decoration: none;}
+.Link_contentBu_L A:link{	color:#333333; text-decoration:underline; }
+.Link_contentBu_L A:visited{	color:#333333; text-decoration:none; }
+.Link_contentBu_L A:hover{	color:#0066CC; text-decoration:none; }
+
+/* 淺藍底_字靠中 */
+.Link_contentBu_C {	font-size: 12px;	color: #333333;	background-color: #E1F1FF;	padding-left: 6px;	padding-top: 6px;	padding-bottom: 6px;	text-decoration: none;	text-align: center;	}
+.Link_contentBu_C A:link{	color:#333333; text-decoration:underline; }
+.Link_contentBu_C A:visited{	color:#333333; text-decoration:none; }
+.Link_contentBu_C A:hover{	color:#0066CC; text-decoration:none; }
+
+/* 淡黃底_字靠左 */
+.Link_contentYe_L {	font-size: 12px;	color: #333333;	background-color: #ffffdf;	padding-left: 6px;	padding-top: 6px;	padding-bottom: 6px;	text-decoration: none;}
+.Link_contentYe_L A:link{	color:#333333; text-decoration:underline; }
+.Link_contentYe_L A:visited{	color:#333333; text-decoration:none; }
+.Link_contentYe_L A:hover{	color:#0066CC; text-decoration:none; }
+
+
+/* 白底_字靠左 */
+.Link_contentWt_L {	font-size: 12px;	color: #333333;	background-color: #ffffff;	padding-left: 6px;	padding-top: 6px;	padding-bottom: 6px;	text-decoration: none;}
+.Link_contentWt_L A:link{	color:#333333; text-decoration:underline; }
+.Link_contentWt_L A:visited{	color:#333333; text-decoration:none; }
+.Link_contentWt_L A:hover{	color:#0066CC; text-decoration:none; }
+
+/* 白底_字靠左_link有底線 */
+.Link_contentWt_Ll {	font-size: 12px;	color: #333333;	background-color: #ffffff;	padding-left: 6px;	padding-top: 6px;	padding-bottom: 6px;	text-decoration: none;}
+.Link_contentWt_Ll A:link{	color:#333333; text-decoration:underline; }
+.Link_contentWt_Ll A:visited{	color:#333333; text-decoration:underline; }
+.Link_contentWt_Ll A:hover{	color:#0066CC; text-decoration:underline; }
+
+/* 白底_字靠左_link有底線，字形13 */
+.Link_contentWt_Ll_13b {font-size: 13px;font-weight: bold; color: #333333; background-color: #ffffff; padding-left: 6px; padding-top: 6px; padding-bottom: 6px; text-decoration: none;}
+.Link_contentWt_Ll_13b A:link{ color:#333333; text-decoration:underline; }
+.Link_contentWt_Ll_13b A:visited{ color:#333333; text-decoration:underline; }
+.Link_contentWt_Ll_13b A:hover{ color:#0066CC; text-decoration:underline; }
+
+
+/* 無底色 */
+.Link_content {	font-size: 12px;	color: #333333;	padding-left: 6px;	padding-top: 6px;	padding-bottom: 6px;	text-decoration: none;}
+.Link_content A:link{	color:#333333; text-decoration:underline; }
+.Link_content A:visited{	color:#333333; text-decoration:none; }
+.Link_content A:hover{	color:#0066CC; text-decoration:none; }
+
+/* 無底色有底線*/
+.Link_content_Line {	font-size: 12px;	color: #333333;	padding-left: 6px;	padding-top: 6px;	padding-bottom: 6px;	text-decoration: underline;}
+.Link_content_Line A:link{	color:#333333; text-decoration:underline; }
+.Link_content_Line A:visited{	color:#333333; text-decoration:underline; }
+.Link_content_Line A:hover{	color:#0066CC; text-decoration:underline; }
+
+
+/* 表單內容----------------------------------------------------------------#d5d5d5-----#E1F1FF-------------------------------- */
+/* 藍底_字靠中 */
+.Table_contentBu_C {	font-size: 12px;	color: #333333;	background-color: #E1F1FF;	padding-left: 6px;	padding-top: 6px;	padding-bottom: 6px;	text-align: center;}
+
+/* 藍底_字靠左 */
+.Table_contentBu_L {	font-size: 12px;	color: #333333;	background-color: #E1F1FF;	padding-left: 6px;	padding-top: 6px;	padding-bottom: 6px;	}
+
+/* 藍底_字靠右 */
+.Table_contentBu_R {	font-size: 12px;	color: #333333;	background-color: #E1F1FF;	padding-left: 6px;	padding-top: 6px;	padding-bottom: 6px;	text-align: right;}
+
+/* 白底_字靠中 */
+.Table_contentWt_C {	font-size: 12px;	color: #333333;	background-color: #ffffff;	padding-left: 6px;	padding-top: 6px;	padding-bottom: 6px;	text-align: center;}
+
+/* 白底_字靠右 */
+.Table_contentWt_R {	font-size: 12px;	color: #333333;	background-color: #ffffff;	padding-left: 6px;	padding-top: 6px;	padding-bottom: 6px;	text-align: right;}
+
+/* 白底_字靠左 */
+.Table_contentWt_L {	font-size: 12px;	color: #333333;	background-color: #ffffff;	padding-left: 6px;	padding-top: 6px;	padding-bottom: 6px;	}
+
+/* 淡黃底_字靠中 */
+.Table_contentYe_C {	font-size: 12px;	color: #333333;	background-color: #ffffdf;	padding-left: 6px;	padding-top: 6px;	padding-bottom: 6px;	text-align: center;}
+/*.Table_contentYe_C {	font-size: 12px;	color: #333333;	background-color: #ffffc4;	padding-left: 6px;	padding-top: 6px;	padding-bottom: 6px;	text-align: center;}*/
+
+/* 淡黃底_字靠右 */
+.Table_contentYe_R {	font-size: 12px;	color: #333333;	background-color: #ffffdf;	padding-left: 6px;	padding-top: 6px;	padding-bottom: 6px;	text-align: right;}
+/*.Table_contentYe_R {	font-size: 12px;	color: #333333;	background-color: #ffffc4;	padding-left: 6px;	padding-top: 6px;	padding-bottom: 6px;	text-align: right;}*/
+
+/* 淡黃底_字靠左 */
+.Table_contentYe_L {	font-size: 12px;	color: #333333;	background-color: #ffffdf;	padding-left: 6px;	padding-top: 6px;	padding-bottom: 6px;	}
+/*.Table_contentYe_L {	font-size: 12px;	color: #333333;	background-color: #ffffc4;	padding-left: 6px;	padding-top: 6px;	padding-bottom: 6px;	}*/
+
+/* 文字連結藍底_字靠中 */
+.Table_contentlinkBu_C {font-size: 12px;	color: #0066CC;	background-color: #E1F1FF;	cursor:hand;            border:0;               padding:2px;	text-align: center;}
+
+/* 文字連結白底_字靠中 */
+.Table_contentlinkWt_C {font-size: 12px;	color: #0066CC;	background-color: #ffffff;	cursor:hand;            border:0;               padding:2px;	text-align: center;}
+
+
+/* 表單內容_說明欄位 */
+.contenttxt_12rd {	font-size: 12px;	color: #CC0000;	text-decoration: none;	}
+.contenttxt_12rdB {	font-size: 12px;	color: #CC0000;	text-decoration: none;	font-weight: bold;}
+.contenttxt_12rd_C {	font-size: 12px;	color: #CC0000;	text-decoration: none;	font-weight: bold; text-align:center}
+.contenttxt_13rd {	font-size: 12px;	color: #CC0000;	background-color: c8e3ff;	text-decoration: none;}
+.TableDescrip_content {	font-size: 12px;	line-height: 18px;	color: #000000;	background-color: c8e3ff;	padding-left: 20px;	padding-top: 10px;	padding-bottom: 10px;}
+.TableDescrip_content_lbu {	font-size: 12px;	line-height: 18px;	color: #333333;	background-color: #E1F1FF;	padding-left: 20px;	padding-top: 10px;	padding-bottom: 10px;}
+
+/* 按鈕------------------------------------------------------------------------------------------------------------ */
+/* 確定類按鈕_紅色 */
+.BTN_red_C {  font-size: 12px;     color: #00ffff;background-image: url(../netbank/pages/imagesNew/button/BTN_red_bg.gif);height: 20px;}
+.BTN_red_C A:link{color:#ffffff; text-decoration:none; }
+.BTN_red_C A:visited{color:#ffffff; text-decoration:none; }
+.BTN_red_C A:hover{color:ffff00; text-decoration:none; }
+.BTN_red_L {	background-image: url(../netbank/pages/imagesNew/button/BTN_red_left.gif);	width: 6px;	}
+.BTN_red_R {	background-image: url(../netbank/pages/imagesNew/button/BTN_red_right.gif);	width: 6px;	}
+
+/* 確定類按鈕_紅色 字顏色為黑*/
+.BTN_red_CW {  font-size: 12px;     color: #ffffff;background-image: url(../netbank/pages/imagesNew/button/BTN_red_bg.gif);height: 20px;}
+.BTN_red_CW A:link{color:#ffffff; text-decoration:none; }
+.BTN_red_CW A:visited{color:#ffffff; text-decoration:none; }
+.BTN_red_CW A:hover{color:#ffffff; text-decoration:none; }
+.BTN_red_LW {	background-image: url(../netbank/pages/imagesNew/button/BTN_red_left.gif);	width: 6px;	}
+.BTN_red_RW {	background-image: url(../netbank/pages/imagesNew/button/BTN_red_right.gif);	width: 6px;	}
+
+
+/* 否定類按鈕_灰色 */
+.BTN_gy_C {  font-size: 12px;     color: #00ffff;background-image: url(../netbank/pages/imagesNew/button/BTN_gy_bg.gif);height: 20px;}
+.BTN_gy_C A:link{color:#ffffff; text-decoration:none; }
+.BTN_gy_C A:visited{color:#ffffff; text-decoration:none; }
+.BTN_gy_C A:hover{color:ffff00; text-decoration:none; }
+.BTN_gy_L {	background-image: url(../netbank/pages/imagesNew/button/BTN_gy_left.gif);		width: 6px;	}
+.BTN_gy_R {	background-image: url(../netbank/pages/imagesNew/button/BTN_gy_right.gif);	width: 6px;	}
+
+/* 查詢類按鈕_藍色 */
+.BTN_bl_C {  font-size: 12px;     color: #00ffff;background-image: url(../netbank/pages/imagesNew/button/BTN_bl_bg.gif);height: 20px;}
+.BTN_bl_C A:link{color:#ffffff; text-decoration:none; }
+.BTN_bl_C A:visited{color:#ffffff; text-decoration:none; }
+.BTN_bl_C A:hover{color:ffff00; text-decoration:none; }
+.BTN_bl_L {	background-image: url(../netbank/pages/imagesNew/button/BTN_bl_left.gif);	width: 6px;	}
+.BTN_bl_R {	background-image: url(../netbank/pages/imagesNew/button/BTN_bl_right.gif);	width: 6px;	}
+
+/*修正textarea 長度不足卻自動換行的問題*/
+textarea    {border-width:2px;}
